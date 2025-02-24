@@ -53,7 +53,8 @@ or
 <details>
   <summary>Copy from site</summary>
 
-> 🔥 TIP
+> #🔥 TIP
+>
 > Read and follow the blue lines in the script.
 
 </details>
