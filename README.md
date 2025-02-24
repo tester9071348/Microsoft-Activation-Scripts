@@ -65,7 +65,7 @@ Reach out to us with an error screenshot on any of the below links;
 - [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues)
 - Email: <code>mas.help@outlook.com</code>
 
-<img src="https://img.shields.io/badge/Chat%20with%20us%20on%20Discord--blue?style=social&logo=discord" alt="Chat with us on Discord">
+<a href="https://discord.gg/j2yFsV5ZVC"><img height="40px" src="https://img.shields.io/badge/Chat%20with%20us%20on%20Discord--blue?style=social&amp;logo=discord" alt="Discord"></a>
 
 </details>
 
