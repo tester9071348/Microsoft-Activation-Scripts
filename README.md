@@ -58,6 +58,7 @@ or
 > Read and follow the blue lines in the script.
 
 If the issue remains even after following the blue lines in the script output,
+<br>
 Reach out to us with an error screenshot on any of the below links;
 
 </details>
