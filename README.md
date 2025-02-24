@@ -54,7 +54,7 @@ or
   <summary>Copy from site</summary>
 
 > [!TIP]
-> Read and follow the blue lines in the script.
+> - Read and follow the blue lines in the script.
 
 </details>
 
