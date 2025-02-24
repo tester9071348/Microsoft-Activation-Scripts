@@ -61,6 +61,10 @@ If the issue remains even after following the blue lines in the script output,
 <br>
 Reach out to us with an error screenshot on any of the below links;
 
+- [Discord](https://discord.gg/j2yFsV5ZVC) ❤️ (signup not required)
+- [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/issues)
+- Email: <code>mas.help@outlook.com</code>
+
 </details>
 
 ---
