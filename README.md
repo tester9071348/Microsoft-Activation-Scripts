@@ -53,8 +53,8 @@ or
 <details>
   <summary>Copy from site</summary>
 
-> [!TIP]
-> - Read and follow the blue lines in the script.
+> [!NOTE]
+> TIP: Read and follow the blue lines in the script.
 
 </details>
 
