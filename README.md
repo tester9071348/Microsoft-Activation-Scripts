@@ -33,6 +33,7 @@ irm https://massgrave.dev/get | iex
 `https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`  
 or  
 `https://git.activated.win/massgrave/Microsoft-Activation-Scripts/archive/master.zip`
+<br>
 or
 `https://github.com/tester9071348/Microsoft-Activation-Scripts/archive/refs/heads/master.zip`
 3.   Right-click on the downloaded zip file and extract
