@@ -1,4 +1,4 @@
-<p align="center"><img src="https://massgrave.dev/img/logo_small.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/tester9071348/Microsoft-Activation-Scripts/refs/heads/master/logo_small.png" alt="MAS Logo"></p>
 
 <h1 align="center">Microsoft  Activation  Scripts (MAS)</h1>
 
