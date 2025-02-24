@@ -53,9 +53,12 @@ or
 <details>
   <summary>Copy from site</summary>
 
-> #🔥 TIP
+> 🔥 TIP
 >
 > Read and follow the blue lines in the script.
+
+If the issue remains even after following the blue lines in the script output,
+Reach out to us with an error screenshot on any of the below links;
 
 </details>
 
